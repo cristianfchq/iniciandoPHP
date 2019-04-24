@@ -10,11 +10,14 @@
     <?php
         echo "Este es primer mensaje<br>";
 
-        include ("proporciona-datos2.php");
+        include ("proporciona-datos.php");
         /**
          * en lugar de include puedo usar require
          * 
          * y el resultado dara el mismo
+         * 
+         * include ("proporciona-datos2.php");
+         * require ("proporciona-datos2.php");
          * 
          * pero la diferencia es:
          * 
