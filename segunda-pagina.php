@@ -45,7 +45,7 @@
         no puede hacer o no admite imprimir en pantalla varias variables
         
         print es una funcion
-        echo es una exprexcion
+        echo es una exprecion
 
         print se toma mas tiempo para imprimir en pantalla que echo
         por que tiene que hacer mas procesos internos
